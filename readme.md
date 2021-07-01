@@ -1,1 +1,1 @@
-## A parser made primarily for reading intel hex file dumps produced by the Digirule2U.
+## A parser made primarily for reading Intel hex file dumps produced by the Digirule2U.
